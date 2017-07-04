@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+/* チャプター：ヘッダーエリア */
+header {
+    width: 1000px;
+    background-color: #ffcccc;
+}
+
+#wrapper {
+    width: 1000px;
+    overflow: hidden;
+}
+
+#menu{
+    width: 300px;
+    float: right;
+    background-color: #ccccff;
+}   
+
+#main{
+    float: left;
+    width: 700px;
+    background-color: #ccffcc;
+}
+
+footer{
+    width: 1000px;
+    background-color: #ffccff;
+}
